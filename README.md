@@ -1,0 +1,2 @@
+# Wine-Quality-Prediction-with-MLflow---Experiment-Tracking-Optimization-and-Deployment.
+This project explores MLflow for experiment tracking, hyperparameter tuning, model comparison, and deployment in a real-world regression task. An ANN predicts wine quality scores using the White Wine Quality dataset. MLflow logs all experiments, registers the best model, and serves it as an MLflow REST API for real-time predictions.
