@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Gaurob/Desktop/DLMLFLOW/mlruns/997668502739364301/b76c154828ba438d90ef923a9f1661e5/artifacts
+end_time: 1738905778659
+entry_point_name: ''
+experiment_id: '997668502739364301'
+lifecycle_stage: active
+run_id: b76c154828ba438d90ef923a9f1661e5
+run_name: mercurial-loon-40
+run_uuid: b76c154828ba438d90ef923a9f1661e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738905765476
+status: 3
+tags: []
+user_id: Gaurob

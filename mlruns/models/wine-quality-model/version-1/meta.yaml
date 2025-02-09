@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738907995197
+current_stage: None
+description: null
+last_updated_timestamp: 1738907995197
+name: wine-quality-model
+run_id: 90d616fec64d45dd949030edf9499fef
+run_link: null
+source: file:///c:/Users/Gaurob/Desktop/DLMLFLOW/mlruns/997668502739364301/90d616fec64d45dd949030edf9499fef/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Gaurob/Desktop/DLMLFLOW/mlruns/997668502739364301/90d616fec64d45dd949030edf9499fef/artifacts/model
+user_id: null
+version: 1

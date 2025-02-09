@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Gaurob/Desktop/DLMLFLOW/mlruns/997668502739364301/5795d6bed6204a8ca5a76de27daa8da1/artifacts
+end_time: 1738905804847
+entry_point_name: ''
+experiment_id: '997668502739364301'
+lifecycle_stage: active
+run_id: 5795d6bed6204a8ca5a76de27daa8da1
+run_name: loud-hare-890
+run_uuid: 5795d6bed6204a8ca5a76de27daa8da1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738905791424
+status: 3
+tags: []
+user_id: Gaurob

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Gaurob/Desktop/DLMLFLOW/mlruns/997668502739364301/90d616fec64d45dd949030edf9499fef/artifacts
+end_time: 1738905818393
+entry_point_name: ''
+experiment_id: '997668502739364301'
+lifecycle_stage: active
+run_id: 90d616fec64d45dd949030edf9499fef
+run_name: gregarious-loon-758
+run_uuid: 90d616fec64d45dd949030edf9499fef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738905749329
+status: 3
+tags: []
+user_id: Gaurob
